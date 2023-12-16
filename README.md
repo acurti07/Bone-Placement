@@ -1,5 +1,6 @@
 # Bone-Placement
 In final_pico.py:
+
 mqtt: Manages MQTT communication for small sensors and mobile devices, optimized for unreliable networks.
 
 time: Standard Python module for time-related tasks like delays (sleep).
@@ -13,6 +14,7 @@ urequests: MicroPython library for HTTP requests.
 machine: MicroPython module for hardware interaction on microcontrollers.
 
 math: Standard Python library for mathematical functions.
+
 
 
 In final_project_OpenCV.py:
